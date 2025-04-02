@@ -4,4 +4,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Discord: <a href="https://discord.com/users/627767885313605643">DP2305</a><br>
-Twitter: <a href="https://twitter.com/Dp23052">@Dp23052</a><br>
+
