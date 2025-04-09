@@ -15,8 +15,8 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thomas123414&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas123414&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dp2305&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp2305&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
 
 
 Discord: <a href="https://discord.com/users/627767885313605643">DP2305</a><br>
