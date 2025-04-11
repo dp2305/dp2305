@@ -16,7 +16,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dp2305&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dp2305=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp2305&hide_progress=true)
 
 
 Discord: <a href="https://discord.com/users/627767885313605643">DP2305</a><br>
