@@ -15,7 +15,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dp2305&theme=dark&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dp2305&theme=dark)](https://git.io/streak-stats)
 
 
 
