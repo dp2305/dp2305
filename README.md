@@ -14,8 +14,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dp2305&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dp2305&theme=dark)](https://git.io/streak-stats)
 
 
 
