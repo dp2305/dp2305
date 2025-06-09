@@ -15,7 +15,7 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dp2305" alt="GitHub Streak" /></a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp2305&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
 
 
 Discord: <a href="https://discord.com/users/627767885313605643">DP2305</a><br>
